@@ -7,6 +7,8 @@ The goal is to train a discriminator / generator pair using:
 
 and then compare their performance using **generated images** and **Fréchet Inception Distance (FID)**.
 
+The Results folder contains all saved outputs from training and evaluation: generated images, loss curves, and FID score files for DCGAN, WGAN, and ACGAN.
+
 ---
 
 ## Repository structure
